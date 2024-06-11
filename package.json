@@ -1,0 +1,25 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "Weather App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/X99ror/Weather-APP.git"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Himanshu Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/X99ror/Weather-APP/issues"
+  },
+  "homepage": "https://github.com/X99ror/Weather-APP#readme",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
